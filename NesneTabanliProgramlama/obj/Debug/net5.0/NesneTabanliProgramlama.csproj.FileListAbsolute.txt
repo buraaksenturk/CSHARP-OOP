@@ -1,0 +1,16 @@
+C:\Users\Ghost Coder\Desktop\NesneTabanliProgramlama\NesneTabanliProgramlama\bin\Debug\net5.0\NesneTabanliProgramlama.exe
+C:\Users\Ghost Coder\Desktop\NesneTabanliProgramlama\NesneTabanliProgramlama\bin\Debug\net5.0\NesneTabanliProgramlama.deps.json
+C:\Users\Ghost Coder\Desktop\NesneTabanliProgramlama\NesneTabanliProgramlama\bin\Debug\net5.0\NesneTabanliProgramlama.runtimeconfig.json
+C:\Users\Ghost Coder\Desktop\NesneTabanliProgramlama\NesneTabanliProgramlama\bin\Debug\net5.0\NesneTabanliProgramlama.runtimeconfig.dev.json
+C:\Users\Ghost Coder\Desktop\NesneTabanliProgramlama\NesneTabanliProgramlama\bin\Debug\net5.0\NesneTabanliProgramlama.dll
+C:\Users\Ghost Coder\Desktop\NesneTabanliProgramlama\NesneTabanliProgramlama\bin\Debug\net5.0\ref\NesneTabanliProgramlama.dll
+C:\Users\Ghost Coder\Desktop\NesneTabanliProgramlama\NesneTabanliProgramlama\bin\Debug\net5.0\NesneTabanliProgramlama.pdb
+C:\Users\Ghost Coder\Desktop\NesneTabanliProgramlama\NesneTabanliProgramlama\obj\Debug\net5.0\NesneTabanliProgramlama.csprojAssemblyReference.cache
+C:\Users\Ghost Coder\Desktop\NesneTabanliProgramlama\NesneTabanliProgramlama\obj\Debug\net5.0\NesneTabanliProgramlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost Coder\Desktop\NesneTabanliProgramlama\NesneTabanliProgramlama\obj\Debug\net5.0\NesneTabanliProgramlama.AssemblyInfoInputs.cache
+C:\Users\Ghost Coder\Desktop\NesneTabanliProgramlama\NesneTabanliProgramlama\obj\Debug\net5.0\NesneTabanliProgramlama.AssemblyInfo.cs
+C:\Users\Ghost Coder\Desktop\NesneTabanliProgramlama\NesneTabanliProgramlama\obj\Debug\net5.0\NesneTabanliProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\Ghost Coder\Desktop\NesneTabanliProgramlama\NesneTabanliProgramlama\obj\Debug\net5.0\NesneTabanliProgramlama.dll
+C:\Users\Ghost Coder\Desktop\NesneTabanliProgramlama\NesneTabanliProgramlama\obj\Debug\net5.0\ref\NesneTabanliProgramlama.dll
+C:\Users\Ghost Coder\Desktop\NesneTabanliProgramlama\NesneTabanliProgramlama\obj\Debug\net5.0\NesneTabanliProgramlama.pdb
+C:\Users\Ghost Coder\Desktop\NesneTabanliProgramlama\NesneTabanliProgramlama\obj\Debug\net5.0\NesneTabanliProgramlama.genruntimeconfig.cache
